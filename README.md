@@ -1,0 +1,1 @@
+This is McKay's first git project!
